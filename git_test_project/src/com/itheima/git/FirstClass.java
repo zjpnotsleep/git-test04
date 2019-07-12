@@ -16,5 +16,6 @@ public class FirstClass {
         i = i+5;
         System.out.println(i);
         System.out.println("为中华之崛起而读书");
+        System.out.println("I am Chinese");
     }
 }
